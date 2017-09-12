@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on DazzaG</title>
+    <link>https://dazzag24.github.io/categories/</link>
+    <description>Recent content in Categories on DazzaG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://dazzag24.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Others</title>
+      <link>https://dazzag24.github.io/categories/others/</link>
+      <pubDate>Tue, 12 Sep 2017 15:44:38 +0100</pubDate>
+      
+      <guid>https://dazzag24.github.io/categories/others/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

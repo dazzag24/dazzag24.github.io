@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DazzaG</title>
+    <link>https://dazzag24.github.io/tags/</link>
+    <description>Recent content in Tags on DazzaG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Sep 2017 15:44:38 +0100</lastBuildDate>
+    
+	<atom:link href="https://dazzag24.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nothing much</title>
+      <link>https://dazzag24.github.io/tags/nothing-much/</link>
+      <pubDate>Tue, 12 Sep 2017 15:44:38 +0100</pubDate>
+      
+      <guid>https://dazzag24.github.io/tags/nothing-much/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
