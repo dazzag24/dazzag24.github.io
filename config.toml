@@ -1,3 +1,70 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://dazzag24.github.io"
+title = "DazzaG"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+[params]
+  description = "DazzaG static site"
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "dazzag"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "DazzaG"
+
+[author.social]
+  codepen = ""
+  email = ""
+  facebook = ""
+  github = ""
+  instagram = ""
+  twitter = "dazzag24"
+  linkedin = ""
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = -70
+  identifier = "daazag"
+  url = "https://dazzag24.github.io"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
